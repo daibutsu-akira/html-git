@@ -1,9 +1,9 @@
-h1{
+.title{
   color: red;
 }
-h2{
+.subtitle{
   font-size: 50px;
 }
-p{
+.test{
   font-family: serif;
 }
