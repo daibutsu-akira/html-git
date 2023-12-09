@@ -1,0 +1,78 @@
+.test1{
+  background-color: red;
+
+}
+.test2{
+  background-color: blue;
+
+}
+.test3{
+  background-color: pink;
+
+}
+.test4{
+  background-color: green;
+}
+.box1{
+  margin:  0 auto;
+  width: 400px;
+  height: 400px;
+  background-color: green;
+}
+.top1{
+  width: 300px;
+  height: 100px;
+  background-color:red ;
+}
+.right1{
+  width: 150px;
+  height: 100px;
+  background-color: black;
+}
+.left1{
+  width: 150px;
+  height: 100px;
+  background-color: brown;
+}
+.bottom1{
+  width: 300px;
+  height: 100px;
+  background-color: gold;
+}
+.box2{
+  width: 400px;
+  height: 400px;
+  background-color: black;
+}
+.top2{
+  width: 300px;
+  height: 100px;
+  background-color:green;
+}
+.middle2:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+.left2{
+  float: left2;
+  width: 150px;
+  height: 100px;
+  background-color: chartreuse;
+}
+.right2{
+  float: right2;
+  width: 150px;
+  height: 100px;
+  background-color: gold;
+}
+.bottom2{
+  width: 300px;
+  height: 100px;
+  background-color: red;
+}
+.test:not(:first-child) {
+  color: red;
+}
+
+  
