@@ -1,0 +1,38 @@
+.parent{
+  position: relative;
+  top: 50px;
+  left: 100px;
+  width: 500px;
+  height: 500px;
+  background-color: chartreuse;
+}
+.child1{
+  position: absolute;
+  top: 50px;
+  left: 70px;
+  width: 200px;
+  height: 200px;
+  background-color: rgba(218, 21, 37, 0.993);
+}
+.box{
+  display: flex;
+  margin-top: 100px;
+  width: 500px;
+  height: 500px;
+  background-color: gray;
+}
+.red{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.blue{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+.yellow{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
