@@ -24,12 +24,15 @@
   height: 100px;
   background-color:red ;
 }
+
 .right1{
+  float: left;
   width: 150px;
   height: 100px;
   background-color: black;
 }
 .left1{
+  float: left;
   width: 150px;
   height: 100px;
   background-color: brown;
@@ -40,6 +43,7 @@
   background-color: gold;
 }
 .box2{
+  margin: 10px auto;
   width: 400px;
   height: 400px;
   background-color: black;
@@ -55,13 +59,13 @@
   clear: both;
 }
 .left2{
-  float: left2;
+  float: left;
   width: 150px;
   height: 100px;
   background-color: chartreuse;
 }
 .right2{
-  float: right2;
+  float: left;
   width: 150px;
   height: 100px;
   background-color: gold;
