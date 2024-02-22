@@ -1,0 +1,26 @@
+.box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* flex-wrap: wrap; */
+  margin-top: 100px;
+  width: 500px;
+  height: 500px;
+  background-color: gray;
+}
+.red{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.blue{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+.yellow{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
